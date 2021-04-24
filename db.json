@@ -1,3 +1,10 @@
 {
-  
+  "days": 
+    {"day": "mon", "time": 1, "temp": 56},
+    {"day": "tue", "time": 2, "temp": 55},
+    {"day": "wed", "time": 3, "temp": 55},
+    {"day": "thu", "time": 4, "temp": 51},
+    {"day": "fri", "time": 5, "temp": 53},
+    {"day": "sat", "time": 6, "temp": 51},
+    {"day": "sun", "time": 7, "temp": 49}
 }
