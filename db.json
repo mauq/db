@@ -1,11 +1,21 @@
 {
   "days": [
-    {"day": "mon", "time": 1, "temp": 56},
-    {"day": "tue", "time": 2, "temp": 55},
-    {"day": "wed", "time": 3, "temp": 55},
-    {"day": "thu", "time": 4, "temp": 51},
-    {"day": "fri", "time": 5, "temp": 53},
-    {"day": "sat", "time": 6, "temp": 51},
-    {"day": "sun", "time": 7, "temp": 49}
+    {"day": "mon", "time": 1},
+    {"day": "tue", "time": 2},
+    {"day": "wed", "time": 3},
+    {"day": "thu", "time": 4},
+    {"day": "fri", "time": 5},
+    {"day": "sat", "time": 6},
+    {"day": "sun", "time": 7}
+  ], 
+  
+  "temps": [
+    {"time": 1, "temp": [45, 54, 60, 56]},
+    {"time": 2, "temp": [43, 54, 60, 50]},
+    {"time": 3, "temp": [48, 56, 65, 53]},
+    {"time": 4, "temp": [45, 53, 61, 54]},
+    {"time": 5, "temp": [44, 50, 50, 50]},
+    {"time": 6, "temp": [49, 56, 66, 56]},
+    {"time": 7, "temp": [42, 54, 60, 46]}
   ]
 }
