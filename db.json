@@ -1,12 +1,12 @@
 {
   "days": [
-    {"day": "mon", "time": 1},
-    {"day": "tue", "time": 2},
-    {"day": "wed", "time": 3},
-    {"day": "thu", "time": 4},
-    {"day": "fri", "time": 5},
-    {"day": "sat", "time": 6},
-    {"day": "sun", "time": 7}
+    {"day": "mon", "timestamp": 1},
+    {"day": "tue", "timestamp": 2},
+    {"day": "wed", "timestamp": 3},
+    {"day": "thu", "timestamp": 4},
+    {"day": "fri", "timestamp": 5},
+    {"day": "sat", "timestamp": 6},
+    {"day": "sun", "timestamp": 7}
   ], 
   
   "temps": [
