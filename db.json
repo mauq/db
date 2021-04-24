@@ -1,12 +1,12 @@
 {
   "days": [
-    {"day": "mon", "timestamp": 1},
-    {"day": "tue", "timestamp": 2},
-    {"day": "wed", "timestamp": 3},
-    {"day": "thu", "timestamp": 4},
-    {"day": "fri", "timestamp": 5},
-    {"day": "sat", "timestamp": 6},
-    {"day": "sun", "timestamp": 7}
+    {"day": "mon", "timestamp": 1619301297000},
+    {"day": "tue", "timestamp": 1619387697000},
+    {"day": "wed", "timestamp": 1619474097000},
+    {"day": "thu", "timestamp": 1619560497000},
+    {"day": "fri", "timestamp": 1619646897000},
+    {"day": "sat", "timestamp": 1619733297000},
+    {"day": "sun", "timestamp": 1619819697000}
   ], 
   
   "temps": [
